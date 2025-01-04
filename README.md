@@ -8,4 +8,4 @@ The project consists of web scraping, cleaning and transforming the email data f
 
 ### 📊 Dashboard
 
-![Dashboard](https://github.com/anshitN/-Automated-Email-Response-and-Word-Frequency-Analyser-/blob/main/Screenshot%20(11).png?raw=true)
+![Dashboard](https://github.com/anshitN/-Automated-Email-Response-and-Word-Frequency-Analyser-/blob/main/Dashboard.png?raw=true)
