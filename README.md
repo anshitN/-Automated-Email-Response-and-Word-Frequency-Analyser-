@@ -22,35 +22,34 @@ In today’s fast-paced digital world, managing overflowing inboxes can be a dau
 
 ## 📊 Dashboard Overview:
 📧 Incoming Email Summary:
-
 Total number of new emails received.
 Quick view of unread, responded, and pending emails.
-🤖 Automated Response Status:
 
+### 🤖 Automated Response Status:
 Real-time updates on emails that have been auto-responded.
 Pending auto-replies with estimated response time.
-🗣️ Sentiment & Tone Breakdown:
 
+🗣️ Sentiment & Tone Breakdown:
 Pie chart displaying the sentiment (Positive, Neutral, Negative) of the emails.
 Tone analysis of the emails (Formal, Casual, Urgent, etc.).
-📈 Word Frequency Analysis:
 
+📈 Word Frequency Analysis:
 Word cloud showcasing the most frequently used terms.
 Graphs illustrating word usage over time or by categories.
 Insights into trending topics based on word usage.
-🔍 Intent & Categorization:
 
+🔍 Intent & Categorization:
 Automatic categorization of emails (e.g., Inquiry, Complaint, Feedback, etc.).
 Display of top email categories with respective counts.
-📉 Performance Analytics:
 
+📉 Performance Analytics:
 Response time analysis (average time taken for auto-replies).
 Email engagement metrics (open rates, reply rates, etc.).
-⚙️ Customization Settings:
 
+⚙️ Customization Settings:
 Adjust settings for automated response tone and templates.
 Fine-tune word frequency analysis parameters (e.g., exclude common stopwords).
-💡 Actionable Insights:
 
+💡 Actionable Insights:
 Suggested improvements based on email communication trends.
 Recommendations for optimizing response strategies and communication flow.
