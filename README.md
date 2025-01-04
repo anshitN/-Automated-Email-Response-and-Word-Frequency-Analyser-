@@ -7,10 +7,10 @@ This intelligent system leverages the power of natural language processing (NLP)
 Furthermore, the system conducts a comprehensive word frequency analysis of emails, identifying the most commonly used words and phrases. This analysis provides valuable insights into communication patterns, emerging trends, and potential areas for improvement. By visualizing this data, organizations can gain a deeper understanding of their email communication and make data-driven decisions to optimize their messaging strategies.
 ![image](https://github.com/user-attachments/assets/fa0ccd98-1d2a-4308-a420-de3148347e96)
 
-### Output Image
+## Output Image
 
 ![image](https://github.com/anshitN/-Automated-Email-Response-and-Word-Frequency-Analyser-/blob/main/Word%20Frequency%20Image.png?raw=true)
 
-### 📊 Dashboard
+## 📊 Dashboard
 
 ![Dashboard](https://github.com/anshitN/-Automated-Email-Response-and-Word-Frequency-Analyser-/blob/main/Dashboard.png?raw=true)
